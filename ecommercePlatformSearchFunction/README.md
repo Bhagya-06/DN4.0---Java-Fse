@@ -1,6 +1,6 @@
 # 🛒 E-commerce Platform Search Function
 
-In this assignment, we have to implement and analyze **search functionality** for an e-commerce platform. The focus is on comparing two search techniques **Linear Search** and **Binary Search** based on performance and applicability.
+In this exercise, we have to implement and analyze **search functionality** for an e-commerce platform. The focus is on comparing two search techniques **Linear Search** and **Binary Search** based on performance and applicability.
 
 
 
