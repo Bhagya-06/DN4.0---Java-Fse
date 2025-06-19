@@ -1,6 +1,6 @@
 # 📈 Financial Forecasting Tool
 
-In this Exercise, we implement a **recursive algorithm** to forecast future financial values based on past data.
+In this exercise, we implement a **recursive algorithm** to forecast future financial values based on past data.
 
 
 
